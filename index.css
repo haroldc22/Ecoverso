@@ -1,5 +1,5 @@
 body{
-    background-image: url('./img/fe60fdbb-ecc8-4ceb-8523-3d585fd11207.jfif');
+    background-image: url('./img/WhatsApp\ Image\ 2022-08-06\ at\ 2.47.28\ PM.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
     margin: 0;
@@ -44,6 +44,7 @@ form{
 }
 .title > h2{
     font-size: 80px;
+    text-shadow: 20px 10px 10px  #000;
 }
 .title > h2:hover{
     transform: scale(1.1);
@@ -95,4 +96,11 @@ footer{
     width: 30px;
     height: 30px;
     margin-left: 20px;
+}
+#nombres{
+    color: rgb(255, 255, 255);
+}
+.main > h2{
+    color: rgb(17, 87, 0);
+    text-shadow: 8px 10px 10px rgb(109, 109, 109);
 }
